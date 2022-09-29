@@ -1,0 +1,4 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/PeteSKK/all_collections.git
+	branch = 2019196
